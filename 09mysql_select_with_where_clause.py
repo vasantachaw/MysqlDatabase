@@ -1,3 +1,4 @@
+#here all libraries import for mysql connections and operatons
 import mysql.connector as mq
 from mysql.connector import Error
 
