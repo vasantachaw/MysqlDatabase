@@ -1,7 +1,7 @@
 import mysql.connector as mq
 from mysql.connector import Error
 
-
+#libraries
 class Database:
     def __init__(self):
         self.connection = None
